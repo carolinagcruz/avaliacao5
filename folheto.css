@@ -1,0 +1,49 @@
+body{
+    background-color:#33CCFF;
+    
+}
+
+header{
+    background-color: black;
+    height: 55px;
+    border-bottom: 4px groove #33CCFF;
+    border: 6px groove #00EFF;
+    
+}
+header h1{
+    color: red;
+    margin-top: 0;
+    padding: 5px;
+    text-align: center;
+    font-weight: normal;
+    font-family: Georgia, serif;
+    font-size: 40px;
+}
+img{
+    height: 177px;
+    width: 170px;
+    float: none;
+    margin: 5px;
+}
+section {
+    border-bottom: 5px double #009900;
+    
+}
+
+
+
+section h2{
+    color: black;
+   
+    
+}
+section dt{
+    color: black;
+    
+}
+
+section li{
+    color:black;
+   
+}
+
